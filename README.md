@@ -2,7 +2,7 @@
   <samp>
     <a href="https://github.com/egementes">about me</a> .
     <a href="https://github.com/sponsors/egementes">sponsors</a> .
-    <a href="https://www.linkedin.com/in/mentesege/">linkedin</a> .
+    <a href="https://www.linkedin.com/in/mentesege/">linkedin</a>
   </samp>
 </p>
 
